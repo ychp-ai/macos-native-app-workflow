@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS 原生应用工作流"
+  short_description: "通过子命令执行 macOS 原生应用设计开发、功能优化、窗口改版、调试与发布"
+  default_prompt: "使用 $macos-native-app-workflow help 查看可执行的子命令与示例。"
